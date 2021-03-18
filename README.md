@@ -25,9 +25,14 @@ The analysis shows that the district summary was affected.
 
 The analysis shows that the school summary was not affected. The averages for charter schools and district schools remained the same as shown in the following picture.
 
+![0879XgEe](https://user-images.githubusercontent.com/74743437/111700504-e0108c80-880f-11eb-81c8-1893c3b7db69.jpg)
+
+
 **How does replacing the ninth graders&#39; math and reading scores affect Thomas High School&#39;s performance relative to the other schools?**
 
 The analysis shows that Thomas High School&#39;s performance was not affected. Thomas High School remained in the top 5 schools and within the $630-644 spending ranges per student (as seen in the following picture).
+
+![gIUtbS3Y](https://user-images.githubusercontent.com/74743437/111700641-11895800-8810-11eb-967d-2432a9e4c32f.jpg)
 
 **How does replacing the ninth-grade scores affect the following:**
 
